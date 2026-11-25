@@ -1,0 +1,14 @@
+[
+  {"name":"Common Cold","symptoms":["runny nose","sneezing","sore throat","cough","headache"],"urgency":"low","advice":"Rest, drink warm fluids, try steam inhalation and saltwater gargles. Usually clears in 7-10 days."},
+  {"name":"Influenza (Flu)","symptoms":["fever","chills","body ache","fatigue","cough","headache"],"urgency":"medium","advice":"Rest, stay hydrated and monitor your fever. See a doctor if symptoms last more than 3-4 days."},
+  {"name":"Viral Fever","symptoms":["fever","fatigue","body ache","headache","chills"],"urgency":"medium","advice":"Rest and drink plenty of fluids. Consult a doctor if fever persists beyond 3 days."},
+  {"name":"Dengue-like Illness","symptoms":["fever","headache","body ache","rash","nausea","fatigue"],"urgency":"medium","advice":"Drink plenty of fluids and avoid self-medicating with aspirin or ibuprofen. Get a blood test if fever lasts over 2 days."},
+  {"name":"Allergic Rhinitis","symptoms":["sneezing","runny nose","itchy eyes"],"urgency":"low","advice":"Avoid triggers like dust and pollen. An antihistamine may help; ask a pharmacist."},
+  {"name":"Sinusitis","symptoms":["headache","runny nose","ear pain","sore throat","fever"],"urgency":"low","advice":"Use steam inhalation and saline rinses. See a doctor if symptoms last more than 10 days."},
+  {"name":"Gastroenteritis","symptoms":["nausea","vomiting","diarrhea","abdominal pain","fever"],"urgency":"medium","advice":"Sip oral rehydration solution often. See a doctor if you cannot keep fluids down or it lasts over 2 days."},
+  {"name":"Migraine","symptoms":["headache","nausea","dizziness"],"urgency":"medium","advice":"Rest in a dark, quiet room and stay hydrated. See a doctor if migraines are frequent or severe."},
+  {"name":"Throat Infection","symptoms":["sore throat","fever","headache","ear pain"],"urgency":"medium","advice":"Gargle warm salt water and drink warm fluids. A doctor can check if it needs antibiotics."},
+  {"name":"Bronchitis","symptoms":["cough","wheezing","fatigue","fever"],"urgency":"medium","advice":"Rest, drink fluids and avoid smoke. See a doctor if the cough lasts more than a week."},
+  {"name":"COVID-like Illness","symptoms":["fever","cough","loss of smell","fatigue","sore throat"],"urgency":"medium","advice":"Consider getting tested and avoid close contact with others until you know."},
+  {"name":"Skin Allergy","symptoms":["rash","itchy eyes"],"urgency":"low","advice":"Avoid scratching and suspected triggers. Seek care if the rash spreads or swells."}
+]

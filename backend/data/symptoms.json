@@ -1,0 +1,7 @@
+{
+  "General": ["fever", "high fever", "chills", "fatigue", "body ache"],
+  "Head & Throat": ["headache", "sore throat", "runny nose", "sneezing", "ear pain", "itchy eyes", "loss of smell"],
+  "Chest & Breathing": ["cough", "wheezing", "shortness of breath", "chest pain"],
+  "Stomach": ["nausea", "vomiting", "diarrhea", "abdominal pain"],
+  "Other": ["dizziness", "rash", "confusion"]
+}
